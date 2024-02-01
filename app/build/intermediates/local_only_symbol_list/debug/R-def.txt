@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color Brown
+color black
+color ic_launcher_background
+color lightBrown
+color white
+drawable bg
+drawable brown_header
+drawable header2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable round_pause_24
+drawable round_play_arrow_24
+drawable round_refresh_24
+drawable round_stop_24
+id reset
+id start
+id stop
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Stopwatch
+style BrownTheme
+style Theme.Stopwatch
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Brown">#72443C</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="lightBrown">#F5F5F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Stopwatch</string>
+    <style name="Base.Theme.Stopwatch" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="BrownTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:colorAccent">@color/Brown</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="Theme.Stopwatch" parent="Base.Theme.Stopwatch"/>
+</resources>
